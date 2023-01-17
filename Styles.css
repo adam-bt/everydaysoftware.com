@@ -1,0 +1,202 @@
+a:visited       {color: royalblue;
+                        TEXT-DECORATION: none}
+
+a:active        {color: royalblue;
+                        TEXT-DECORATION: none}
+
+a:link          {color: royalblue;
+                        TEXT-DECORATION: none}
+
+HR 		{height:4px;
+	        width:100%;
+      		background:CornflowerBlue ;
+      		margin: 0px 0px 0px 0px;}
+				 
+em              {color: darkblue;
+                font-style: normal;
+		font-size: 14px;
+                font-weight: bold
+}
+
+em.lg   	{font-size: 20px}
+
+
+i               {font-style: italic}
+
+i.right {text-align: right}
+
+
+sup             {color: black;
+                font-size: 80%;
+                vertical-align: top}
+
+small           {font-size: 80%}
+
+sup.small       {font-size: 60%}
+
+h1              {font-family: Verdana, Helvetica, AkzidenzGrotesk, Univers, Arial, sans-serif;
+                font-size: 19px;
+                font-weight: normal;
+                font-style: normal;
+                text-align: left;
+                margin-left: 0px;
+                margin-right: 0px;
+                color: black}
+
+h1.right        {text-align: right}
+
+h2              {font-family: Verdana, Helvetica, AkzidenzGrotesk, Univers, Arial, sans-serif;
+                font-size: 17px;
+                font-weight: normal;
+                font-style:normal;
+                text-align: left;
+                margin-left: 0px;
+                margin-right: 0px;
+                color: black}
+
+h2.right        {text-align: right}
+
+h3              {font-family: Verdana, Helvetica, AkzidenzGrotesk, Univers, Arial, sans-serif;
+                font-size: 15px;
+                font-weight: normal;
+                font-style: normal;
+                text-align: left;
+                margin-left: 0px;
+                margin-right: 0px;
+                color: black}
+
+h3.right        {text-align: right}
+
+h4              {font-family: Verdana, Helvetica, AkzidenzGrotesk, Univers, Arial, sans-serif;
+                font-size: 13px;
+                font-weight: normal;
+                font-style: normal;
+                text-align: left}
+
+h5              {font-family: Verdana, Helvetica, AkzidenzGrotesk, Univers, Arial, sans-serif;
+                font-size: 12px;
+                font-weight: bold;
+                font-style: normal;
+                text-align: left;
+                margin-left: 0px;
+                margin-right: 0px;
+                color: black}
+
+h6              {font-family: Verdana, Helvetica, AkzidenzGrotesk, Univers, Arial, sans-serif;
+                font-size: 11px;
+                font-weight: bold;
+                font-style: normal;
+                text-align: center;
+                margin-left: 0px;
+                margin-right: 0px}
+
+p               {font-family: Verdana, AkzidenzGrotesk, Univers, Helvetica, Arial, sans-serif;
+                font-size: 13px;
+                font-weight: normal;
+                font-style: normal;                
+                margin-left: 30px;
+                margin-right: 30px;
+                color: black}
+
+
+blockquote      {font-family: Verdana, AkzidenzGrotesk, Univers, Helvetica, Arial, sans-serif;
+                font-size: 13px;
+                font-weight: normal;
+                font-style: normal;
+                text-align: justify;
+                margin-left: 30px;
+                margin-right: 30px;
+                color: black}
+                
+p.pullquote     {font-family: Centaur, Georgia, Goudy, Baskervile, Times, serif;
+                font-size: 11px;
+                font-weight: normal;
+                font-style: normal;
+                text-align: left;
+                margin-left: 0px;
+                margin-right: 0px;
+                color: black}
+
+p.left          {text-align: left}
+
+p.right         {text-align: right}
+
+p.center        {text-align: center}
+
+p.sm_rt         {font-size: 10px;
+                        text-align: right}
+
+p.footnote      {font-size: 10px;
+                margin-left: 20px;
+                margin-right: 50px;
+                text-align: left}
+
+p.note          {font-size: 10px;
+                margin-right: 50px;
+                text-align: left}
+
+ol              {font-family: Verdana, AkzidenzGrotesk, Univers, Helvetica, Arial, sans-serif;
+                font-size: 11px;
+                font-weight: normal;
+                font-style: normal;
+                list-style-type: decimal;
+                text-align: left;
+                margin-right: 20px;
+                color: black}
+
+ol.footnote     {font-size: 11px;
+                margin-right: 20px}
+
+ul              {font-family: Verdana, AkzidenzGrotesk, Univers, Helvetica, Arial, sans-serif;
+                font-size: 11px;
+                font-weight: normal;
+                font-style: normal;
+                margin-left: 15px;
+                color: black}
+
+capxion         {font-family: Verdana, AkzidenzGrotesk, Univers, Helvetica, Arial, sans-serif;
+                font-size: 10px;
+                font-weight: bold;
+                font-style: normal;
+                text-align: left;
+                margin-left: 0px;
+                margin-right: 0px;
+                color: black}
+
+address         {font-family: Verdana, AkzidenzGrotesk, Univers, Helvetica, Arial, sans-serif;
+                font-size: 10px;
+                font-weight: normal;
+                font-style: normal;
+                text-align: left;
+                margin-left: 0px;
+                color: black}
+
+code            {font-family: monospace;
+                font-size: 10px;
+                font-weight: normal;
+                font-style: normal;
+                margin-left: -1px;
+                color: black}
+
+kbd             {font-family: monospace;
+                font-size: 10px;
+                font-weight: normal;
+                font-style: normal;
+                text-align: left;
+                margin-left: -1px;
+                color: black}
+
+
+th              {font-family: Verdana, Helvetica, AkzidenzGrotesk, Univers, Arial, sans-serif;
+                font-weight: normal;
+                font-size: 14px;
+                font-style: normal;
+                color: black}
+
+td              {font-family: Verdana, AkzidenzGrotesk, Univers, Helvetica, Arial, sans-serif;
+                font-size: 11px;
+                font-weight: normal;
+                font-style: normal;
+                margin-left: 30px;
+                margin-right: 30px;
+                color: black}
